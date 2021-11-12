@@ -1,0 +1,1 @@
+mm_analysis.py sumo2 --thread 1 -t sumo2-openmmawsem.pdb

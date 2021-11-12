@@ -1,0 +1,1 @@
+mm_analysis.py 6jxw --thread 1 -t 6jxw-openmmawsem.pdb

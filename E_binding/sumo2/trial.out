@@ -1,0 +1,25 @@
+CPU: 1 threads
+Chains to simulate:  A
+Number of atom:  451 Number of residue:  77
+Contact cutoff  1.0 nm
+NonbondedMethod:  1
+beta_1 term ON
+k_beta=4.184
+
+beta_2 term ON
+k_beta=4.184
+
+beta_3 term ON
+k_beta=4.184
+
+pap_1 term ON
+k_pap=4.184
+
+pap_2 term ON
+k_pap=4.184
+
+k_helical=4.184
+
+Debye Huckel term is ON
+Steps    Con      Chain    Chi      Excluded Rama     Contact  Fragment Beta     Pap      Helical  DH       Total   
+0        4.24     11.30    3.05     17.44    -151.26  -101.68  0.00     -59.73   -16.47   -9.20    0.94     -301.37 
